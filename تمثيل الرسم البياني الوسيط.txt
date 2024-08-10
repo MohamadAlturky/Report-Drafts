@@ -1,0 +1,20 @@
+1- توليد المخطط عن طريق وضع تمثيل بياني وسيط
+
+تعريف:
+
+يتم تحويل توصيف العملية إلى تنسيق وسيط بسيط، مثل تمثيل الرسم البياني، ثم يتم تحويله إلى ترميز JSON في خطوة إضافية لاحقة. قد يكون هذا النهج أكثر فعالية من النهج الأول لأن النموذج اللغوي الكبير يحتاج فقط إلى فهم التمثيل الوسيط البسيط، مثل تنسيق كود "Mermaid.js".
+
+النتائج:
+عند اختبار الخطوة الأولى من هذا النهج، تمكن GPT-4 من توليد ترميز صالح لرسم بياني باستخدام Mermaid.js مع عناصر مشابهة لـ BPMN 2.0. ولكن هناك بعض العيوب في الرسم البياني المولد. على سبيل المثال، يمكن دمج تدفقات التسلسل المكررة باستخدام بوابة (gateways)، وهناك أيضًا عقد نهاية (end events) مفقودة. ومنه نجد أن الخطوة الأولى تتطلب مزيدًا من التحسين، وهناك حاجة إلى خطوة تحويل ثانية من التنسيق الوسيط إلى ترميز JSON.
+
+
+
+مرجع:
+Zirnstein, B. Extraction of BPMN process models from unstructured textual descriptions.
+
+رابط:
+https://www.researchgate.net/profile/Bruno-Zirnstein/publication/380007531_Extraction_of_BPMN_process_models_from_unstructured_textual_descriptions/links/6627ab8966ba7e2359f2ffce/Extraction-of-BPMN-process-models-from-unstructured-textual-descriptions.pdf
+
+
+رقم الصفحة:
+12
