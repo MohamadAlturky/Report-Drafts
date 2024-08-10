@@ -6,3 +6,16 @@
 
 النتائج:
 تم أرسال طلب للنموذج GPT-4 لتوليد ترميز JSON بناءً على وصف العملية. ومع ذلك، لم تكن النتائج مرضية حيث أن الترميز المولد لم يكن بالتنسيق المحدد. التنسيق المطلوب معقد للغاية لأنه يحتوي على العديد من التفاصيل حول الرسم البياني، مثل معرفات محددة id وإحداثيات صريحة لكل عنصر رسومي. لذلك، يواجه النموذج اللغوي الكبير صعوبة في توليد التميز بالشكل الصحيح.
+
+
+
+
+مرجع:
+Zirnstein, B. Extraction of BPMN process models from unstructured textual descriptions.
+
+رابط:
+https://www.researchgate.net/profile/Bruno-Zirnstein/publication/380007531_Extraction_of_BPMN_process_models_from_unstructured_textual_descriptions/links/6627ab8966ba7e2359f2ffce/Extraction-of-BPMN-process-models-from-unstructured-textual-descriptions.pdf
+
+
+رقم الصفحة:
+6
