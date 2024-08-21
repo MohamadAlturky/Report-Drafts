@@ -1,0 +1,104 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36 Edg/127.0.0.0" version="24.7.7">
+  <diagram name="Page-1" id="GjMK3rxCJA1r302AXMOD">
+    <mxGraphModel dx="1737" dy="958" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="6vXMjUfZYiRweGUM1C_T-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="423.98" y="100" width="726.02" height="390" as="geometry" />
+        </mxCell>
+        <mxCell id="6vXMjUfZYiRweGUM1C_T-2" value="&lt;span style=&quot;font-size:15.0pt;&lt;br/&gt;mso-ansi-font-size:12.0pt;font-family:&amp;quot;Traditional Arabic&amp;quot;,serif;mso-ascii-font-family:&lt;br/&gt;&amp;quot;Times New Roman&amp;quot;;mso-fareast-font-family:&amp;quot;Times New Roman&amp;quot;;mso-hansi-font-family:&lt;br/&gt;&amp;quot;Times New Roman&amp;quot;;mso-ansi-language:EN-US;mso-fareast-language:EN-US;&lt;br/&gt;mso-bidi-language:AR-SY&quot; dir=&quot;RTL&quot; lang=&quot;AR-SY&quot;&gt;&lt;b&gt;تحديد الفاعلين&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="423.98" y="60" width="726.02" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6vXMjUfZYiRweGUM1C_T-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6vXMjUfZYiRweGUM1C_T-4" target="6vXMjUfZYiRweGUM1C_T-27">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="450" y="200" />
+              <mxPoint x="450" y="240" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6vXMjUfZYiRweGUM1C_T-4" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3D;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.document;" vertex="1" parent="1">
+          <mxGeometry x="291.98" y="168" width="46.04" height="63" as="geometry" />
+        </mxCell>
+        <mxCell id="6vXMjUfZYiRweGUM1C_T-5" value="قائمة الأنشطة" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="260" y="238" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6vXMjUfZYiRweGUM1C_T-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="6vXMjUfZYiRweGUM1C_T-21" target="6vXMjUfZYiRweGUM1C_T-27">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="450" y="325" />
+              <mxPoint x="450" y="253" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6vXMjUfZYiRweGUM1C_T-21" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3D;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.document;" vertex="1" parent="1">
+          <mxGeometry x="289.98" y="293" width="46.04" height="63" as="geometry" />
+        </mxCell>
+        <mxCell id="6vXMjUfZYiRweGUM1C_T-22" value="توصيف العملية" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="258" y="356" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6vXMjUfZYiRweGUM1C_T-23" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3D;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.document;" vertex="1" parent="1">
+          <mxGeometry x="467" y="376" width="46.04" height="63" as="geometry" />
+        </mxCell>
+        <mxCell id="6vXMjUfZYiRweGUM1C_T-24" value="تعليمات خاصة بالتوجيه" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="434" y="440" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6vXMjUfZYiRweGUM1C_T-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6vXMjUfZYiRweGUM1C_T-27" target="6vXMjUfZYiRweGUM1C_T-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6vXMjUfZYiRweGUM1C_T-27" value="باني التوجيه" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="223" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6vXMjUfZYiRweGUM1C_T-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="6vXMjUfZYiRweGUM1C_T-29" target="6vXMjUfZYiRweGUM1C_T-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6vXMjUfZYiRweGUM1C_T-29" value="&lt;span style=&quot;color: rgb(0, 0, 0); text-wrap: wrap;&quot;&gt;التويجه&lt;/span&gt;" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3D;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.document;" vertex="1" parent="1">
+          <mxGeometry x="633" y="370" width="46.04" height="63" as="geometry" />
+        </mxCell>
+        <mxCell id="6vXMjUfZYiRweGUM1C_T-30" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3D;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.document;" vertex="1" parent="1">
+          <mxGeometry x="877.98" y="220" width="46.04" height="63" as="geometry" />
+        </mxCell>
+        <mxCell id="6vXMjUfZYiRweGUM1C_T-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6vXMjUfZYiRweGUM1C_T-32" target="6vXMjUfZYiRweGUM1C_T-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6vXMjUfZYiRweGUM1C_T-32" value="نموذج لغوي" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="757.98" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6vXMjUfZYiRweGUM1C_T-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.003;entryY=0.702;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="6vXMjUfZYiRweGUM1C_T-23" target="6vXMjUfZYiRweGUM1C_T-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6vXMjUfZYiRweGUM1C_T-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="6vXMjUfZYiRweGUM1C_T-40">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1260" y="239.75" as="targetPoint" />
+            <mxPoint x="960" y="409.75" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="1056" y="409.75" />
+              <mxPoint x="1056" y="242.75" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6vXMjUfZYiRweGUM1C_T-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="6vXMjUfZYiRweGUM1C_T-41">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="900" y="282.75" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="900" y="408.75" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6vXMjUfZYiRweGUM1C_T-40" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3D;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.document;" vertex="1" parent="1">
+          <mxGeometry x="1240" y="210.75" width="46.04" height="63" as="geometry" />
+        </mxCell>
+        <mxCell id="6vXMjUfZYiRweGUM1C_T-41" value="محلل" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="923.02" y="378.25" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6vXMjUfZYiRweGUM1C_T-42" value="قائمة الفاعلين" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1208.02" y="276.75" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6vXMjUfZYiRweGUM1C_T-43" value="نص يحتوي على قائمة من الأنشطة مع فاعل كل نشاط" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="924.02" y="243" width="110" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

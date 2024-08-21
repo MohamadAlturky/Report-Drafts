@@ -1,0 +1,37 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36 Edg/127.0.0.0" version="24.7.7">
+  <diagram name="Page-1" id="2USL1uWt5f9-v_7K8NZM">
+    <mxGraphModel dx="1912" dy="596" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="jHPJCZHiImO-W6S5AD-i-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="150" y="310" width="530" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="jHPJCZHiImO-W6S5AD-i-2" value="&lt;span style=&quot;font-size:15.0pt;&lt;br/&gt;mso-ansi-font-size:12.0pt;font-family:&amp;quot;Traditional Arabic&amp;quot;,serif;mso-ascii-font-family:&lt;br/&gt;&amp;quot;Times New Roman&amp;quot;;mso-fareast-font-family:&amp;quot;Times New Roman&amp;quot;;mso-hansi-font-family:&lt;br/&gt;&amp;quot;Times New Roman&amp;quot;;mso-ansi-language:EN-US;mso-fareast-language:EN-US;&lt;br/&gt;mso-bidi-language:AR-SY&quot; dir=&quot;RTL&quot; lang=&quot;AR-SY&quot;&gt;&lt;b&gt;بناء شجرة الأنشطة&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="270" width="530" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jHPJCZHiImO-W6S5AD-i-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="jHPJCZHiImO-W6S5AD-i-3" target="jHPJCZHiImO-W6S5AD-i-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jHPJCZHiImO-W6S5AD-i-3" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3D;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.document;" vertex="1" parent="1">
+          <mxGeometry x="18" y="378" width="46.04" height="63" as="geometry" />
+        </mxCell>
+        <mxCell id="jHPJCZHiImO-W6S5AD-i-4" value="قائمة من السيناريوهات" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-13.980000000000004" y="448" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="jHPJCZHiImO-W6S5AD-i-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jHPJCZHiImO-W6S5AD-i-5" target="jHPJCZHiImO-W6S5AD-i-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jHPJCZHiImO-W6S5AD-i-5" value="باني الشجرة" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jHPJCZHiImO-W6S5AD-i-6" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3D;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.document;" vertex="1" parent="1">
+          <mxGeometry x="741.98" y="379" width="46.04" height="63" as="geometry" />
+        </mxCell>
+        <mxCell id="jHPJCZHiImO-W6S5AD-i-7" value="شجرة الأنشطة" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="710" y="449" width="110" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

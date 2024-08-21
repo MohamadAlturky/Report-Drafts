@@ -1,0 +1,122 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36 Edg/127.0.0.0" version="24.7.7">
+  <diagram name="Page-1" id="jnM1wCq2vMDDajKr8ohf">
+    <mxGraphModel dx="1694" dy="1734" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="UGi_67-xu8HfX04rQqDn-2" value="Process Description" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="535" y="50" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="UGi_67-xu8HfX04rQqDn-3" value="Notes" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="330" y="50" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="UGi_67-xu8HfX04rQqDn-4" value="User" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="455" y="-120" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UGi_67-xu8HfX04rQqDn-5" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="UGi_67-xu8HfX04rQqDn-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="470" y="-40" as="sourcePoint" />
+            <mxPoint y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UGi_67-xu8HfX04rQqDn-6" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="UGi_67-xu8HfX04rQqDn-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="470" y="-40" as="sourcePoint" />
+            <mxPoint x="10" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UGi_67-xu8HfX04rQqDn-15" value="Generate Flows Scenarios" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="340" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UGi_67-xu8HfX04rQqDn-17" value="Stage One" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="300" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="UGi_67-xu8HfX04rQqDn-18" value="Prompt" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="180" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="UGi_67-xu8HfX04rQqDn-19" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="UGi_67-xu8HfX04rQqDn-2" target="UGi_67-xu8HfX04rQqDn-18">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="150" y="210" as="sourcePoint" />
+            <mxPoint x="200" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UGi_67-xu8HfX04rQqDn-20" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="UGi_67-xu8HfX04rQqDn-3" target="UGi_67-xu8HfX04rQqDn-18">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="150" y="380" as="sourcePoint" />
+            <mxPoint x="200" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UGi_67-xu8HfX04rQqDn-21" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="UGi_67-xu8HfX04rQqDn-18" target="UGi_67-xu8HfX04rQqDn-17">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="190" y="380" as="sourcePoint" />
+            <mxPoint x="240" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UGi_67-xu8HfX04rQqDn-24" value="Build Tree&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="500" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UGi_67-xu8HfX04rQqDn-25" value="Stage Two" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="460" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="UGi_67-xu8HfX04rQqDn-29" value="Optional" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=-42;" vertex="1" parent="1">
+          <mxGeometry x="360" y="-10" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UGi_67-xu8HfX04rQqDn-32" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="UGi_67-xu8HfX04rQqDn-15">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="470" y="480" as="sourcePoint" />
+            <mxPoint x="470" y="460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UGi_67-xu8HfX04rQqDn-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UGi_67-xu8HfX04rQqDn-35" target="UGi_67-xu8HfX04rQqDn-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UGi_67-xu8HfX04rQqDn-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UGi_67-xu8HfX04rQqDn-35" target="UGi_67-xu8HfX04rQqDn-39">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="470" y="730" />
+              <mxPoint x="720" y="730" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UGi_67-xu8HfX04rQqDn-35" value="Add Gateways To The Tree" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="661" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UGi_67-xu8HfX04rQqDn-36" value="Stage Three" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="621" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="UGi_67-xu8HfX04rQqDn-37" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="UGi_67-xu8HfX04rQqDn-24" target="UGi_67-xu8HfX04rQqDn-36">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="470" y="560" as="sourcePoint" />
+            <mxPoint x="469" y="621" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UGi_67-xu8HfX04rQqDn-38" value="Gateways Types And Conditions Detection" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="820" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UGi_67-xu8HfX04rQqDn-39" value="Stage Six" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="780" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="UGi_67-xu8HfX04rQqDn-40" value="Tasks Types Detection" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="820" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UGi_67-xu8HfX04rQqDn-41" value="Stage Five" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="780" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="UGi_67-xu8HfX04rQqDn-42" value="Actor Detection" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="820" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UGi_67-xu8HfX04rQqDn-43" value="Stage Four" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="780" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="UGi_67-xu8HfX04rQqDn-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.463;entryY=0.037;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="UGi_67-xu8HfX04rQqDn-35" target="UGi_67-xu8HfX04rQqDn-43">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="470" y="730" />
+              <mxPoint x="194" y="730" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
