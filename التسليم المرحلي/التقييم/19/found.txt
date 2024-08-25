@@ -1,0 +1,5 @@
+flows : 16/37
+Gateways : 3/7
+Conditions: 2/6
+activities: 10/25
+actor mapping: 8/17
