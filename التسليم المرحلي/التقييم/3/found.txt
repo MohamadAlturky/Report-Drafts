@@ -1,0 +1,5 @@
+flows : 9/11
+Gateways : 1/1
+Conditions: 0/0
+activities: 9/11
+actor mapping: 5/8
