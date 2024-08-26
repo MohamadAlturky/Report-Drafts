@@ -3,3 +3,11 @@ Gateways : 1/2
 Conditions: 4/4
 activities: 9/11
 actor mapping: 2/5
+
+
+
+flows : 7/19
+Gateways : 1/2
+Conditions: 4/4
+activities: 8/11
+actor mapping: 2/5
